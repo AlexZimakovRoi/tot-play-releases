@@ -20,7 +20,7 @@
 | ОС       | Версия                              |
 |----------|-------------------------------------|
 | Windows  | [Скачать .exe](dist/win/MyElectronApp Setup 1.0.0.exe) |
-| Linux    | [Скачать .deb](https://drive.google.com/file/d/1awuU8qIywnHPxqJ4Iz5K4Nz7nmB2VlVo/view?usp=drive_link) |
+| Linux    | [Скачать .deb](https://drive.google.com/drive/folders/1tRSmRBML7M-ecvq-8lh2EW15Hl98AJKE?usp=drive_link) |
 
 ---
 
