@@ -17,9 +17,9 @@
 
 ## 📦 Скачать
 
-| ОС       | Версия                              |
+| ОС       | Версия 1.0.0                        |
 |----------|-------------------------------------|
-| Windows  | [Скачать .exe](dist/win/MyElectronApp Setup 1.0.0.exe) |
+| Windows  | [Скачать .exe](https://drive.google.com/file/d/1z0HgAEHBA5XgRQwxlgJnGPKUhiq7VU4D/view?usp=drive_link) |
 | Linux    | [Скачать .tar.xz](https://drive.google.com/file/d/1J7iFN5LfgFb-OKU_-7IWSWsUECuezpEB/view?usp=drive_link) |
 
 ---
