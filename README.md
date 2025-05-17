@@ -34,4 +34,4 @@
 
 - [Electron.js](https://www.electronjs.org/ )
 - HTML / CSS / JavaScript
-- electron-builder для сборки
+- electron-builder для сборки 
